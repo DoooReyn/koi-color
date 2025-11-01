@@ -261,7 +261,7 @@ export const KOI_COLOR = {
     /** 亮灰色 */
     GAINSBORO: "#DCDCDC",
     /** 浅灰色 */
-    LIGHT_GREY: "#D3D3D3",
+    LIGHT_GRAY: "#D3D3D3",
     /** 银白色 */
     SILVER: "#C0C0C0",
     /** 深灰色 */
